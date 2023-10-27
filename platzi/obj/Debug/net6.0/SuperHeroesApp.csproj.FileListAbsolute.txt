@@ -1,0 +1,14 @@
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\bin\Debug\net6.0\SuperHeroesApp.exe
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\bin\Debug\net6.0\SuperHeroesApp.deps.json
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\bin\Debug\net6.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\bin\Debug\net6.0\SuperHeroesApp.dll
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\bin\Debug\net6.0\SuperHeroesApp.pdb
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.dll
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\refint\SuperHeroesApp.dll
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.pdb
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\Gis_Soporte\Documents\esteban\PracticasDesarrollo\practicaCSharp\platzi\obj\Debug\net6.0\ref\SuperHeroesApp.dll

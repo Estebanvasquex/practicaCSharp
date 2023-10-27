@@ -1,10 +1,11 @@
-﻿namespace SuperHeroesApp
+﻿namespace SuperHeroesApp.Models
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+           
 
 
             var poderVolar = new SuperPoder();
@@ -27,40 +28,20 @@
             superman.identidadSecreta = "Clark Kent";
             superman.ciudad = "Medellin";
             superman.puedeVolar = true;
-
             List<SuperPoder> poderesSuperMan = new List<SuperPoder>();
             poderesSuperMan.Add(poderVolar);
             poderesSuperMan.Add(superFuerza);
-
-            superman.SuperPoderes = poderesSuperMan;
-
+            superman.superPoderes = poderesSuperMan;
+            superman.puedeVolar = true;
+            superman.UsarSuperPoder();
         }
 
-        class SuperHeroe
-        {
-            public int Id { get; set; }
-            public string nombre { get; set; }
-            public string identidadSecreta { get; set; }
-            public string ciudad { get; set; }
-            public List<SuperPoder> SuperPoderes;
+   
 
-            public bool puedeVolar;
-        }
 
-        class SuperPoder
-        {
-            public int Id { get; set; }
-            public string nombre;
-            public string descripcion;
-            public NivelPoder nivel;
 
-        }
 
-        enum NivelPoder
-        {
-            nivelUno,
-            nivelDos,
-            nivelTres
-        }
+
+     
     }
 }
